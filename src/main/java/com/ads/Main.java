@@ -2,7 +2,7 @@ package com.ads;
 import com.ads.db.DbInitializer;
 import com.ads.db.DatabaseConnection;
 import java.sql.Connection;
-
+{}
 public class Main {
     public static void main(String[] args) {
         System.out.println("=== TEST CONNESSIONE DATABASE ===");
